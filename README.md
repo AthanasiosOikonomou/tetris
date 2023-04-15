@@ -1,2 +1,2 @@
 # tetris
-VLSI Placement Optimization Algorithm
+A tetris based VLSI Placement Optimization Algorithm
